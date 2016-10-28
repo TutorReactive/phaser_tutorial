@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "grunt": "^1.0.1",
-    "grunt-contrib-connect": "^1.0.2"
+    "grunt-contrib-connect": "^1.0.2",
+    "phaser": "^2.6.2"
   }
 }
